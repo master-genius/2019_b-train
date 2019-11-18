@@ -1,10 +1,10 @@
 ## 2017级5～8班实训分组
 
-1. 电影推荐（M-usic-oive）
+1. 饭饭
 
-成员：夏炜轩 李航 李奕纯 刘鑫鑫 刘静静 梁镐
+成员：（夏炜轩） 李航 李奕纯 刘鑫鑫 刘静静 梁镐
 
-描述：个性推荐为主
+描述：美食
 
 github：https://github.com/xiaweixuan/m-uisc-ovie.git
 
@@ -20,21 +20,21 @@ github：https://github.com/Huangfuyuru/wechat-group
 
 <br>
 
-3. [小东西]
+3. 游记
 
 成员：张朔，邵贶，刘芯萌，张文康 杨帆
 
-描述：校园二手交易
+描述：记录分享生活中美食、旅行的APP
 
-github：https://github.com/zhangshuo00/littleThing.git
+github：https://github.com/zhangshuo00/youji
 
 <br>
 
-4. [校淘吧]
+4. 校小圈
 
-成员：司涵 褚雅琦 赵肖肖 聂丹 范宁远
+成员：（司涵） 褚雅琦 赵肖肖 聂丹 范宁远
 
-描述：高校版咸鱼
+描述：校园社交APP
 
 github：https://github.com/sihan9/oursapp
 
@@ -60,11 +60,11 @@ github：https://github.com/daifang/H5-App
 
 <br>
 
-7. 万能搜索
+7. 微音
 
 成员：刘彬 许凯 周亦钊 薛宝祥 李汉霄 苏泽旺
 
-描述：搜贴（描述不清，需求不明）
+描述：小程序音乐
 
 github: https://github.com/qianxunlingbao/Real-Promise
 
